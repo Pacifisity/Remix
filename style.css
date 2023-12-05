@@ -23,6 +23,7 @@ a {
   
 img {
     border-radius: 10px;
+    border: 2px solid #800080;
     width: 100%;
     height: auto;
     object-fit: cover;
@@ -42,6 +43,7 @@ img {
     text-align: center;
     background: #202225;
     border-radius: 20px;
+    border: 2px solid #800080;
 }
   
 .title {
@@ -71,6 +73,7 @@ img {
     padding: 20px;
     margin-top: 20px;
     border-radius: 20px;
+    border: 2px solid #800080;
 }
   
 .row:after {
@@ -85,6 +88,7 @@ img {
     background: #202225;
     margin-top: 20px;
     border-radius: 20px;
+    border: 2px solid #800080;
 }
   
   /* Borrowed code, basically just makes the second column disappear if screen is tiny */
