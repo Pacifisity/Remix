@@ -52,9 +52,15 @@ img {
 }
   
 .subtitle {
-    size: 10px;
+    font-size: 10px;
     text-align: center;
-    color: whitesmoke;
+    color: white;
+}
+
+.credit {
+    font-size: 10px;
+    text-align: right;
+    color: white;
 }
 
 .leftcolumn {   
